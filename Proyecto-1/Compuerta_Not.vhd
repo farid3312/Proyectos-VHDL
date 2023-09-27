@@ -1,8 +1,3 @@
--- This file is part of the course "Circuitos Digitales II"
-
--- Not gate:
--- f = not x
-
 -- Library and packages 
 library	IEEE;
 use IEEE.std_logic_1164.all;
