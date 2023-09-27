@@ -1,4 +1,4 @@
---Prueba OR using compuertas NAND
+--Prueba XOR using compuertas NAND
 -- librerias
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
