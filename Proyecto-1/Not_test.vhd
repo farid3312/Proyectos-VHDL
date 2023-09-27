@@ -1,11 +1,3 @@
--- This file is part of the Circuitos Digitales II
--- by Carlos Hernan Tobar Arteaga
--- File name: project_01/NotGate_test.vhdl
-
--- Not gate:
--- f = not x
-
-
 -- Library and packages 
 library	IEEE;
 use IEEE.std_logic_1164.all;
