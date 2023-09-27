@@ -72,7 +72,7 @@ architecture And_arch_test of And_test is
 		  report "Failure for {a,b} = {1,1}"
 		  severity failure;
 		 
-		report "sucessfull,esta monda ya va saliendo"
+		report "test sucessfull"
 		severity note;
 		wait;
 		
